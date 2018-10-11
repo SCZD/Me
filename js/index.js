@@ -5,7 +5,8 @@ alert("Pre-alpha: this page have some error so that doesnt work fine.");
 
 var respuesta = prompt("Pass");
 alert("Nah only i´m joking.");
-/*var confirmacion = confirm("ARE YOU SURE YOU WANT TO CONTINUE THERE IS NO WAY BACK?")
+/*
+var confirmacion = confirm("ARE YOU SURE YOU WANT TO CONTINUE THERE IS NO WAY BACK?")
 if (confirmacion == false) {
     
     window.open("https://www.google.com/", "", "width=300, height=200") 
